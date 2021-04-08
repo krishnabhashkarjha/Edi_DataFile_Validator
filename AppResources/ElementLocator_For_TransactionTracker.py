@@ -8,10 +8,6 @@ Login_Password_Xpath = "//input[@type='password' and @name = 'password']"
 Login_Button = "//button[@test='login-button']"
 
 # Login Credentials
-Launchpad_username = "achoudhary@spscommerce.com"
-Launchpad_password = "Tensor#97"
-FTP_pre_prod_username = "achoudhary"
-FTP_pre_prod_password = "Tensor#97"
 
 # FTP
 FTP_USERNAME_Xpath = ".//input[@id='username']"
