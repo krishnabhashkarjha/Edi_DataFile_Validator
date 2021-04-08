@@ -1,5 +1,4 @@
 '''
-@ Author - Shilpa Chatterjee Roy
 @ Creation date - 07/06/2018
 @ Description - Declares all the constants to be used at the framework level.
 '''
@@ -57,5 +56,5 @@ SALESFORCE_TAB = '//*[@id="slpt-launchpad-launcher-salesforce-btnInnerEl"]'
 #Database
 db_username = 'postgres'
 db_password = 'postgres'
-db_name = 'SPS_Commerce'
+db_name = 
 db_host_list = ('10.30.26.24','172.16.18.31', '10.30.28.223')
