@@ -2,9 +2,9 @@ INPUT_FILE_PATH = "../AppResources/InputFile_For_FilesAttached.xlsx"
 #company_name = "Eko Development LTD"
 
 Login_Email = "//input[@type='email' and @id='username']"
-username = "achoudhary@spscommerce.com"
+
 Login_Password_Xpath = "//input[@type='password' and @id='password']"
-password = "Tensor#97"
+
 Sign_in_button = "//span[contains(text(),'Sign In')]"
 Nexus_tile = "//span[contains(text(),'Nexus')]"
 Dropdown_selector = "//span[@class='sps-select__value'][contains(text(),'Production')]"
